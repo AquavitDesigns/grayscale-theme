@@ -1,29 +1,33 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: Aquavit Designs
+email: aquavitdesigns at gmail dot com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Welcome to Aquavit Designs - a design workspace."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#DA8B15'
 
 # Footer settings
-footer: Your Website
+footer: John Weston
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+ #   url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: github - aquavitdesigns
+    url: https://github.com/aquavitdesigns
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: http://bitbucket.org/thulefog
+  - title: github - thulefog
+    url: https://github.com/thulefog
+  - title: tumblr
+    url: https://aquavitdesigns.tumblr.com
 
 # Build settings
 markdown: kramdown
