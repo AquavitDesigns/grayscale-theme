@@ -1,7 +1,7 @@
 # Site settings
 title: Aquavit Designs
 email: aquavitdesigns at gmail dot com
-url: https://example.github.io
+url: https://www,aquavitdesigns.com
 description: "Welcome to Aquavit Designs - a design workspace."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -28,6 +28,8 @@ social:
     url: https://github.com/thulefog
   - title: tumblr
     url: https://aquavitdesigns.tumblr.com
+  - title: gitlab
+    url: https://gitlab.com/thulefog
 
 # Build settings
 markdown: kramdown
